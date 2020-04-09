@@ -1,0 +1,29 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.center {
+  margin: auto;
+  width: 50%;
+  border: 10px solid pink;
+  padding: 10px;
+  font-family: 'Indie Flower', cursive;
+  background-image: url(https://totallynotnews.com/wp-content/uploads/2019/09/loops-cat.jpg);
+  color: white;
+}
+.Imagecarousel {
+	width: 50%;
+	margin: auto;
+	border: 10px solid pink;
+}
+.bottuns {
+	margin: auto;
+	width: 50%;
+	text-align: center;
+}
+.progress {
+	margin: auto;
+	width: 50%;
+	text-align: center;
+}
